@@ -1,0 +1,20 @@
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.pdb
+E:\Kmin\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe.config
+E:\Kmin\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe
+E:\Kmin\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.pdb
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.exe
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.pdb
